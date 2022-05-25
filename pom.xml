@@ -18,7 +18,7 @@
     <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
     <java.version>1.8</java.version>
     <commons.lang.version>3.6</commons.lang.version>
-    <springframework>4.3.12.RELEASE</springframework>
+    <springframework>5.2.22.RELEASE</springframework>
   </properties>
   <dependencies>
     <dependency>
